@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+#Interesting Read about the Limitations of LLM 
+
+https://medium.com/@marketing_novita.ai/all-you-need-to-know-about-the-limitations-of-large-language-models-568e15f66809 
+
+I found this article interesting as a student who regularly uses large language models because it clearly explained limitations that I’ve often experienced firsthand and also offers a solution. Whether its use for personal life, integration into my tech projects, or an integration as an API into one of my internship projects; I frequently use LLMs in life. What was useful for me. was the the solutions to these limitations that were described in the article and an explanation to why they happen. Most notably was "Limitation 3: LLMs Can’t Update Their Knowledgebase in Real-Time" which outlined how LLMs are built upon static data and new data can't be available instantaneously because its resource inefficient. I like the idea of combining APIs which fetch latest information - I may even use that in the future. I especially appreciate the writing approach of this article, I typically like reading Medium articles because they tend to be less technical and explain these concepts in a friendly way. This article has supplemented me with a better understanding of the limitations LLMs have and solutions to these issues.
